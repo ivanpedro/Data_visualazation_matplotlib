@@ -1,0 +1,23 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio 15
+VisualStudioVersion = 15.0.27004.2008
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{888888A0-9F3D-457C-B088-3A5042F75D52}") = "legend_title_label", "legend_title_label\legend_title_label.pyproj", "{78896E17-9067-4A44-BBEA-1E2FE849BA3D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{78896E17-9067-4A44-BBEA-1E2FE849BA3D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{78896E17-9067-4A44-BBEA-1E2FE849BA3D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {ACD5DB3B-0AED-40B3-BBAC-78BB5A628DAC}
+	EndGlobalSection
+EndGlobal
